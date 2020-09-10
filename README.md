@@ -37,7 +37,7 @@ Hopefully by this point you can verify that your workspace is setup correctly yo
 
 ### Endpoint 1
 
-We require you to create an endpoint that given a user entered integer representing euros gets the current amount of bitcoin purchasable from bitvavo with the entered amount and stores it into the database. Following this you should return a response to the requester notifying them of the outcome.
+We require you to create an endpoint that given a user entered integer representing euros gets the current amount of bitcoin purchasable from Bitvavo with the entered amount and stores it into the database. Following this you should return a response to the requester notifying them of the outcome.
 
 Here's a link to help you get started: https://api.bitvavo.com/v2/BTC-EUR/book
 
