@@ -5,9 +5,9 @@ Welcome to your assignment,
 Let's start with some general house rules for this assignment:
 
 1) This assignment should take no longer than 4 hours, in general it is completable in much less time but if you require longer please take your time.
-2) You should follow the specification as much as possible, if you decide to modify or change something please make a note of it and submit it alongside your code in this read me under `comments & Modifications`.
+2) You should follow the specification as much as possible, if you decide to modify or change something please make a note of it and submit it alongside your code in this read me under `Comments & Modifications`.
 3) Please try to keep in mind this assignment is scored based on good well documented production ready code, please don't include anything experimental or obviously not production worthy.
-4) Anything you submit might comeback in a code review, so be ready to defend anything you submit (This doesn't include code copied from stackoverflow to aid in finishing the assignment).
+4) Anything you submit might come back in a code review, so be ready to defend anything you submit (This doesn't include code copied from stackoverflow to aid in finishing the assignment).
 
 Once you've finished the assignment please email a link to the *publicly accessible code*, so a team member can check it out.
 
