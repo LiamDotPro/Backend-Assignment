@@ -29,6 +29,8 @@ You'll be creating a small minimal poc repository that loosely matches the kind 
 
 5. Add compilation for Typescript to your project.
 
+Note: The requested endpoints should work locally and no cloud provider is required for completion of this assignment.
+
 ### Part 2 - Development
 
 Hopefully by this point you can verify that your workspace is setup correctly your ready to move onto constructing the endpoints.
