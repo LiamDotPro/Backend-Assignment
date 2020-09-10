@@ -11,15 +11,17 @@ Let's start with some general house rules for this assignment:
 
 Once you've finished the assignment please email a link to the *publicly accessible code*, so a team member can check it out.
 
+**The final submitted code must work by default, if there are any additional setup steps required to run the project please make notes under comments & modifications telling the reviewer how to run the project**
+
 # The Assignment
 
 You'll be creating a small minimal poc repository that loosely matches the kind of projects you might end up working on. You'll be setting up crucial dependencies inside your project and then you will be required to create two endpoints that perform different operations.
 
 ### Part 1 - Configuration
 
-1. Fork or clone this repo into your own account on https://github.com
+1. Fork or Clone this repo into your own account on https://github.com
 
-2. Run a local sql database using docker
+2. Run a local sql database using docker, include docker setup commands in a separate file or add a compose for bonus points.
 
 3. Setup the Serverless Framework https://www.serverless.com/
 
