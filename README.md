@@ -33,14 +33,18 @@ Note: The requested endpoints should work locally and no cloud provider is requi
 
 ### Part 2 - Development
 
-Hopefully by this point you can verify that your workspace is setup correctly your ready to move onto constructing the endpoints.
+Hopefully by this point you can verify that your workspace is setup correctly your ready to move onto constructing the endpoints:
 
 ### Endpoint 1
 
-We require you to create an endpoint that given a user entered integer representing euros gets the current amount of bitcoin purchasable with the entered amount and stores it into the database. Following this you should return a response to the requester notifying them of the outcome.
+We require you to create an endpoint that given a user entered integer representing euros gets the current amount of bitcoin purchasable from bitvavo with the entered amount and stores it into the database. Following this you should return a response to the requester notifying them of the outcome.
+
+Here's a link to help you get started: https://api.bitvavo.com/v2/BTC-EUR/book
+
+**When getting the current amount of purchasable bitcoin you can ignore the fee or presume it's currently set to 0%.**
 
 ### Endpoint 2
 
-We require an endpoint that retrieves the last queried amount in euros and in bitcoin.
+We require an endpoint that retrieves the last queried amount.
 
 # Comments & Modifications 
